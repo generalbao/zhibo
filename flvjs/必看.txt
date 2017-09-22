@@ -1,0 +1,9 @@
+打开index.php 修改里面的url改为自己的视频地址
+index.php里面主要是一个json
+
+type 视频的格式 flv/mp4
+url 视频地址
+更多请参考
+https://github.com/Bilibili/flv.js/blob/master/docs/api.md#flvjscreateplayer
+
+flvjs.createPlayer()下面的MediaDataSource！！！！
